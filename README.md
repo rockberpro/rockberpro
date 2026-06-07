@@ -63,13 +63,4 @@ I turn innovative ideas into impactful digital experiences. With command of web 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockberpro&show_icons=true&theme=tokyonight&hide_border=true" alt="Samuel's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockberpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
-
----
-
 <p align="center"><em>Clean code is not written by following a set of rules — it is a craft worth practicing every day.</em></p>
