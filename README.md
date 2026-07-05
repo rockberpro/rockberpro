@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="resources/img/crown-char-circle-v3.png" alt="Crown" width="140">
-</p>
-
 <h1 align="center">Hi, I'm Samuel Oberger Rockenbach</h1>
 
 <p align="center">
