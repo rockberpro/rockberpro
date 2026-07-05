@@ -57,6 +57,12 @@ I turn innovative ideas into impactful digital experiences. With command of web 
   <img src="https://skillicons.dev/icons?i=postman,jest" alt="API and Testing">
 </p>
 
+<p align="center"><strong>Observability</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SigNoz-E75A2B?style=for-the-badge&logoColor=white" alt="SigNoz">
+  <img src="https://img.shields.io/badge/GlitchTip-3E1D6B?style=for-the-badge&logoColor=white" alt="GlitchTip">
+</p>
+
 ---
 
 <p align="center"><em>Clean code is not written by following a set of rules — it is a craft worth practicing every day.</em></p>
