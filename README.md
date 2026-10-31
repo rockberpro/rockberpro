@@ -1,47 +1,98 @@
-<h1 align="center">Hi, I'm Samuel Oberger Rockenbach</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer</strong> · B.Sc. in Software Engineering, Univates<br>
-  I build web backends and developer tools, and I work proficiently with AI.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:2dd4bf&height=200&section=header&text=Samuel%20Oberger%20Rockenbach&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" alt="Samuel Oberger Rockenbach, Software Engineer" width="100%">
 
-<p align="center">
-  <a href="https://rockberpro.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_my_portfolio-rockberpro.github.io-2dd4bf?style=for-the-badge&labelColor=18181b" alt="Visit my portfolio: rockberpro.github.io" height="36"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600&lines=Web+backends+%26+developer+tools;B.Sc.+in+Software+Engineering%2C+Univates;AI-assisted%2C+human-owned+engineering" alt="Typing animation">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-oberger-rockenbach/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40">
-  </a>
-  <a href="mailto:rockberpro@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40">
-  </a>
-  <br>
-  Contact: <code>rockberpro@gmail.com</code>
-</p>
+<br><br>
+
+<a href="https://rockberpro.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-rockberpro.github.io-2dd4bf?style=for-the-badge&labelColor=18181b" alt="Portfolio" height="36"></a>
+<a href="https://www.linkedin.com/in/samuel-oberger-rockenbach/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b" alt="LinkedIn" height="36"></a>
+<a href="mailto:rockberpro@gmail.com"><img src="https://img.shields.io/badge/Email-rockberpro@gmail.com-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b" alt="Email" height="36"></a>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About
 
-I care about software that is well designed, tested and easy to maintain. That means a clear project structure, well-applied design patterns, disciplined Git history and versioning, CI that catches problems early, and observability in production so errors surface before users report them.
+I build web backends and developer tools, and I care about software that is well designed, tested and easy to maintain.
 
-AI coding agents are part of my daily workflow, and I use them the way I'd use any good tool: I own the architecture and the decisions, give the agents the context they need, and review everything they write before it ships.
-
----
-
-### 🚀 Selected Work
-
-👉 [**agent-kit**](https://github.com/rockberpro/agent-kit): Claude Code plugin that sets up a project's agent harness. Guards, an `.agents/` structure, and skills that map the codebase into memory and rules.\
-👉 [**git-code-review**](https://github.com/rockberpro/git-code-review): review a whole branch as one staged diff in your editor.\
-👉 [**pure**](https://github.com/rockberpro/pure): PHP linting for CI.\
-👉 [**rosa-router**](https://github.com/rockberpro/rosa-router) / [**rosa-client**](https://github.com/rockberpro/rosa-client): REST router and client for PHP.\
-👉 [**git-lga**](https://github.com/rockberpro/git-lga) / [**docker-lda**](https://github.com/rockberpro/docker-lda) / [**bash-lba**](https://github.com/rockberpro/bash-lba): logical aliases for Git, Docker and Bash.
+- 🧱 **Clear structure**: sensible project layout and well-applied design patterns
+- 🌿 **Disciplined Git**: clean history and meaningful versioning
+- ✅ **CI that catches problems early**, before they reach review
+- 📡 **Observability in production**, so errors surface before users report them
+- 🤖 **AI in my daily workflow**: I own the architecture and the decisions, give agents the context they need, and review everything they write before it ships
 
 ---
 
-### 🛠️ Tech Stack
+## 🏛️ Organizations
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,php,py,bash,nuxtjs,tailwind,vite,laravel,nodejs,bun,postgres,mysql,mongodb,docker,linux,github,githubactions,gitlab,prometheus,grafana,sentry&perline=7" alt="Tech stack">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/rockberpro-dev.png?size=80" alt="rockberpro-dev" width="80" height="80">
+      </a>
+      <h3>🛰️ <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></h3>
+      <p><strong>Stable projects.</strong><br>Maintained tools, ready to use.</p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/rockberpro-labs.png?size=80" alt="rockberpro-labs" width="80" height="80">
+      </a>
+      <h3>🧪 <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></h3>
+      <p><strong>Testing ground.</strong><br>Experiments, prototypes and ideas in progress.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a></h3>
+      Review a whole branch as one staged diff, right in your editor.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro/pure" target="_blank" rel="noopener noreferrer">pure</a></h3>
+      PHP linting for your CI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro/rosa-router" target="_blank" rel="noopener noreferrer">rosa-router</a> · <a href="https://github.com/rockberpro/rosa-client" target="_blank" rel="noopener noreferrer">rosa-client</a></h3>
+      Smart REST router and client for PHP.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Logical aliases <sub>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></sub></h3>
+      <a href="https://github.com/rockberpro-dev/git-lga" target="_blank" rel="noopener noreferrer">git-lga</a> ·
+      <a href="https://github.com/rockberpro-dev/docker-lda" target="_blank" rel="noopener noreferrer">docker-lda</a> ·
+      <a href="https://github.com/rockberpro-dev/bash-lba" target="_blank" rel="noopener noreferrer">bash-lba</a> ·
+      <a href="https://github.com/rockberpro-dev/systemd-lsa" target="_blank" rel="noopener noreferrer">systemd-lsa</a><br>
+      Plus <a href="https://github.com/rockberpro-dev/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a> to customize your terminal.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=ts,php,py,bash" alt="Languages"><br><br>
+**Frameworks & runtime**<br>
+<img src="https://skillicons.dev/icons?i=nuxtjs,tailwind,vite,laravel,nodejs,bun" alt="Frameworks and runtime"><br><br>
+**Data**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"><br><br>
+**DevOps & observability**<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,github,githubactions,gitlab,prometheus,grafana,sentry" alt="DevOps and observability">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:2dd4bf&height=120&section=footer" alt="" width="100%">
