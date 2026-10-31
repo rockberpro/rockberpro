@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:2dd4bf&height=200&section=header&text=Samuel%20Oberger%20Rockenbach&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" alt="Samuel Oberger Rockenbach, Software Engineer" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600&lines=Web+backends+%26+developer+tools;B.Sc.+in+Software+Engineering%2C+Univates;AI-assisted%2C+human-owned+engineering" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600&lines=Web+Fullstack+%26+developer+tools;B.Sc.+in+Software+Engineering%2C+Univates;AI-assisted%2C+human-owned+engineering" alt="Typing animation">
 
 <br><br>
 
