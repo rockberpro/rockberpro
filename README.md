@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About
 
-I build web backends and developer tools, and I care about software that is well designed, tested and easy to maintain.
+I build full stack web apps and developer tools, and I care about software that is well designed, tested and easy to maintain.
 
 - 🧱 **Clear structure**: sensible project layout and well-applied design patterns
 - 🌿 **Disciplined Git**: clean history and meaningful versioning
