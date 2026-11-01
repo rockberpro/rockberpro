@@ -87,17 +87,21 @@ I build full stack web apps and developer tools, and I care about software that 
       Plus <a href="https://github.com/rockberpro-dev/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a> to customize your terminal.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro-labs/pure" target="_blank" rel="noopener noreferrer">pure</a> <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
-      PHP linting for your CI.
+      <h3>PHP linting <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      <a href="https://github.com/rockberpro-labs/pure" target="_blank" rel="noopener noreferrer">pure</a><br>
+      Lint your PHP code in CI.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro-labs/rosa-router" target="_blank" rel="noopener noreferrer">rosa-router</a> · <a href="https://github.com/rockberpro-labs/rosa-client" target="_blank" rel="noopener noreferrer">rosa-client</a> <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      <h3>REST for PHP <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      <a href="https://github.com/rockberpro-labs/rosa-router" target="_blank" rel="noopener noreferrer">rosa-router</a> ·
+      <a href="https://github.com/rockberpro-labs/rosa-client" target="_blank" rel="noopener noreferrer">rosa-client</a><br>
       Smart REST router and client for PHP.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro-dev/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a> <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
+      <h3>Code review <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
+      <a href="https://github.com/rockberpro-dev/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a><br>
       Review a whole branch as one staged diff, right in your editor.
     </td>
   </tr>
