@@ -45,6 +45,31 @@ I build full stack web apps and developer tools, and I care about software that 
       <p><strong>Testing ground.</strong><br>Experiments, prototypes and ideas in progress.</p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/rockberpro-play" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/rockberpro-play.png?size=80" alt="rockberpro-play" width="80" height="80">
+      </a>
+      <h3>🎮 <a href="https://github.com/rockberpro-play" target="_blank" rel="noopener noreferrer">rockberpro-play</a></h3>
+      <p><strong>Just for fun.</strong><br>Side quests and toys built for the joy of it.</p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/rockberpro-archive" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/rockberpro-archive.png?size=80" alt="rockberpro-archive" width="80" height="80">
+      </a>
+      <h3>🗄️ <a href="https://github.com/rockberpro-archive" target="_blank" rel="noopener noreferrer">rockberpro-archive</a></h3>
+      <p><strong>Retired projects.</strong><br>Older work, kept for reference.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <a href="https://github.com/neusnet" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/neusnet.png?size=80" alt="neusnet" width="80" height="80">
+      </a>
+      <h3>🌐 <a href="https://github.com/neusnet" target="_blank" rel="noopener noreferrer">neusnet</a></h3>
+      <p><strong>Neusnet protocol.</strong><br>A domain-anchored, federated content distribution protocol, in development.</p>
+    </td>
+  </tr>
 </table>
 
 ---
