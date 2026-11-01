@@ -79,26 +79,26 @@ I build full stack web apps and developer tools, and I care about software that 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a></h3>
-      Review a whole branch as one staged diff, right in your editor.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro/pure" target="_blank" rel="noopener noreferrer">pure</a></h3>
-      PHP linting for your CI.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rockberpro/rosa-router" target="_blank" rel="noopener noreferrer">rosa-router</a> · <a href="https://github.com/rockberpro/rosa-client" target="_blank" rel="noopener noreferrer">rosa-client</a></h3>
-      Smart REST router and client for PHP.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Logical aliases <sub>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></sub></h3>
+      <h3>Logical aliases <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
       <a href="https://github.com/rockberpro-dev/git-lga" target="_blank" rel="noopener noreferrer">git-lga</a> ·
       <a href="https://github.com/rockberpro-dev/docker-lda" target="_blank" rel="noopener noreferrer">docker-lda</a> ·
       <a href="https://github.com/rockberpro-dev/bash-lba" target="_blank" rel="noopener noreferrer">bash-lba</a> ·
       <a href="https://github.com/rockberpro-dev/systemd-lsa" target="_blank" rel="noopener noreferrer">systemd-lsa</a><br>
       Plus <a href="https://github.com/rockberpro-dev/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a> to customize your terminal.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro-labs/pure" target="_blank" rel="noopener noreferrer">pure</a> <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      PHP linting for your CI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro-labs/rosa-router" target="_blank" rel="noopener noreferrer">rosa-router</a> · <a href="https://github.com/rockberpro-labs/rosa-client" target="_blank" rel="noopener noreferrer">rosa-client</a> <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      Smart REST router and client for PHP.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockberpro-dev/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a> <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
+      Review a whole branch as one staged diff, right in your editor.
     </td>
   </tr>
 </table>
