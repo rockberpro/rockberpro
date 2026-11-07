@@ -56,12 +56,12 @@ I build full stack web apps and developer tools, and I care about software that 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Logical aliases <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
-      <a href="https://github.com/rockberpro-dev/git-lga" target="_blank" rel="noopener noreferrer">git-lga</a> ·
-      <a href="https://github.com/rockberpro-dev/docker-lda" target="_blank" rel="noopener noreferrer">docker-lda</a> ·
-      <a href="https://github.com/rockberpro-dev/bash-lba" target="_blank" rel="noopener noreferrer">bash-lba</a> ·
-      <a href="https://github.com/rockberpro-dev/systemd-lsa" target="_blank" rel="noopener noreferrer">systemd-lsa</a><br>
-      Plus <a href="https://github.com/rockberpro-dev/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a> to customize your terminal.
+      <h3>Logical aliases <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      <a href="https://github.com/rockberpro-labs/git-lga" target="_blank" rel="noopener noreferrer">git-lga</a> ·
+      <a href="https://github.com/rockberpro-labs/docker-lda" target="_blank" rel="noopener noreferrer">docker-lda</a> ·
+      <a href="https://github.com/rockberpro-labs/bash-lba" target="_blank" rel="noopener noreferrer">bash-lba</a> ·
+      <a href="https://github.com/rockberpro-labs/systemd-lsa" target="_blank" rel="noopener noreferrer">systemd-lsa</a><br>
+      Plus <a href="https://github.com/rockberpro-labs/bash-prompt" target="_blank" rel="noopener noreferrer">bash-prompt</a> to customize your terminal.
     </td>
     <td width="50%" valign="top">
       <h3>PHP linting <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
@@ -77,8 +77,8 @@ I build full stack web apps and developer tools, and I care about software that 
       Smart REST router and client for PHP.
     </td>
     <td width="50%" valign="top">
-      <h3>Code review <small>· <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></small></h3>
-      <a href="https://github.com/rockberpro-dev/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a><br>
+      <h3>Code review <small>· <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></small></h3>
+      <a href="https://github.com/rockberpro-labs/git-code-review" target="_blank" rel="noopener noreferrer">git-code-review</a><br>
       Review a whole branch as one staged diff, right in your editor.
     </td>
   </tr>
