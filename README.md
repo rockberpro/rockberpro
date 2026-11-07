@@ -28,9 +28,9 @@ I build full stack web apps and developer tools, and I care about software that 
 
 ## 🏛️ Organizations
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" colspan="2" valign="top">
+    <td align="center" width="100%" valign="top">
       <a href="https://github.com/neusnet" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/neusnet.png?size=80" alt="neusnet" width="80" height="80">
       </a>
@@ -39,35 +39,12 @@ I build full stack web apps and developer tools, and I care about software that 
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/rockberpro-dev.png?size=80" alt="rockberpro-dev" width="80" height="80">
-      </a>
-      <h3>🛰️ <a href="https://github.com/rockberpro-dev" target="_blank" rel="noopener noreferrer">rockberpro-dev</a></h3>
-      <p><strong>Stable projects.</strong><br>Maintained tools, ready to use.</p>
-    </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="100%" valign="top">
       <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/rockberpro-labs.png?size=80" alt="rockberpro-labs" width="80" height="80">
       </a>
       <h3>🧪 <a href="https://github.com/rockberpro-labs" target="_blank" rel="noopener noreferrer">rockberpro-labs</a></h3>
-      <p><strong>Testing ground.</strong><br>Experiments, prototypes and ideas in progress.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/rockberpro-play" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/rockberpro-play.png?size=80" alt="rockberpro-play" width="80" height="80">
-      </a>
-      <h3>🎮 <a href="https://github.com/rockberpro-play" target="_blank" rel="noopener noreferrer">rockberpro-play</a></h3>
-      <p><strong>Just for fun.</strong><br>Side quests and toys built for the joy of it.</p>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/rockberpro-archive" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/rockberpro-archive.png?size=80" alt="rockberpro-archive" width="80" height="80">
-      </a>
-      <h3>🗄️ <a href="https://github.com/rockberpro-archive" target="_blank" rel="noopener noreferrer">rockberpro-archive</a></h3>
-      <p><strong>Retired projects.</strong><br>Older work, kept for reference.</p>
+      <p>My personal projects, built in the open.</p>
     </td>
   </tr>
 </table>
