@@ -97,7 +97,7 @@ I build full stack web apps and developer tools, and I care about software that 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=nuxtjs,tailwind,vite" alt="Frontend"><br><br>
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,postgres,mysql,mongodb" alt="Backend"><br><br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,postgres,mysql,mongodb,kafka" alt="Backend"><br><br>
 **DevOps**<br>
 <img src="https://skillicons.dev/icons?i=linux,github,githubactions,gitlab" alt="DevOps"> <img src="icons/playwright.svg" alt="Playwright" width="48"><br><br>
 **Infra**<br>
