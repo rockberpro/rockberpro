@@ -90,14 +90,20 @@ I build full stack web apps and developer tools, and I care about software that 
 
 <div align="center">
 
+**AI**<br>
+<img src="icons/claude.svg" alt="Claude Code" width="48"> <img src="icons/mcp.svg" alt="MCP" width="48"> <img src="icons/ollama.svg" alt="Ollama" width="48"><br><br>
 **Languages**<br>
 <img src="https://skillicons.dev/icons?i=ts,php,py,bash" alt="Languages"><br><br>
-**Frameworks & runtime**<br>
-<img src="https://skillicons.dev/icons?i=nuxtjs,tailwind,vite,laravel,nodejs,bun" alt="Frameworks and runtime"><br><br>
-**Data**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"><br><br>
-**DevOps & observability**<br>
-<img src="https://skillicons.dev/icons?i=docker,linux,github,githubactions,gitlab,prometheus,grafana,sentry" alt="DevOps and observability">
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=nuxtjs,tailwind,vite" alt="Frontend"><br><br>
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,postgres,mysql,mongodb" alt="Backend"><br><br>
+**DevOps**<br>
+<img src="https://skillicons.dev/icons?i=linux,github,githubactions,gitlab" alt="DevOps"> <img src="icons/playwright.svg" alt="Playwright" width="48"><br><br>
+**Infra**<br>
+<img src="https://skillicons.dev/icons?i=gcp,docker,nginx" alt="Infra"> <img src="icons/k3s.svg" alt="K3s" width="48"> <img src="icons/caddy.svg" alt="Caddy" width="48"><br><br>
+**Observability**<br>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" alt="Observability"> <img src="icons/glitchtip.svg" alt="GlitchTip" width="48"> <img src="icons/hyperdx.svg" alt="HyperDX" width="48">
 
 </div>
 
