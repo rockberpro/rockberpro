@@ -103,7 +103,7 @@ I build full stack web apps and developer tools, and I care about software that 
 **Infra**<br>
 <img src="https://skillicons.dev/icons?i=gcp,docker,nginx" alt="Infra"> <img src="icons/k3s.svg" alt="K3s" width="48"> <img src="icons/caddy.svg" alt="Caddy" width="48"><br><br>
 **Observability**<br>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" alt="Observability"> <img src="icons/glitchtip.svg" alt="GlitchTip" width="48"> <img src="icons/hyperdx.svg" alt="HyperDX" width="48">
+<img src="https://skillicons.dev/icons?i=sentry" alt="Sentry"> <img src="icons/glitchtip.svg" alt="GlitchTip" width="48"> <img src="icons/hyperdx.svg" alt="HyperDX" width="48"> <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Grafana, Prometheus">
 
 </div>
 
